@@ -1,0 +1,95 @@
+body {
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  background-color: #aa73ce;
+  color: #ffffff;
+  margin: 0px 0px 30px 0px;
+}
+
+h2 {
+  color: #2a0074;
+  font-size: 40px;
+}
+
+h3 {
+  color: white;
+  font-size: 22px;
+  font-style: italic;
+}
+
+.titulo-verde {
+  color: green;
+}
+
+.juventude {
+  color: #FF9E9E;
+}
+
+.vida-adulta {
+  color: #6bff97;
+}
+
+section {
+  width: 60%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 60px;
+  font-style: italic;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+section section {
+  width:100%;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 2.5;
+}
+
+a {
+  text-decoration: none;
+  color: #99ffff;
+  font width: 700;
+}
+
+li {
+  padding-left: 0;
+}
+
+.principal a {
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.principal {
+  background: #ff6cb5;
+  height: 40px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.principal li {
+  display: inline-block;
+  line-height: 2, 5%;
+  margin: 0 68px;
+}
+button{
+  background-color: #41f341;
+  border 1px solid transparent;
+  padding 2px 20px;
+  border-radius: 3px;
+}
